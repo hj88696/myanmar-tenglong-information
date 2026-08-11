@@ -13,6 +13,7 @@
 ## 文章目录
 
 - [2026-08-11：缅甸腾龙公司信息核验与合规注意事项](articles/2026-08-11-company-verification.md)
+- [2026-08-12：缅甸腾龙公司相关服务的个人信息最小化与泄露应对](articles/2026-08-12-privacy-data-minimization.md)
 
 ## 联系信息
 
