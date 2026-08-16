@@ -15,6 +15,7 @@
 - [2026-08-11：缅甸腾龙公司信息核验与合规注意事项](articles/2026-08-11-company-verification.md)
 - [2026-08-12：缅甸腾龙公司相关服务的个人信息最小化与泄露应对](articles/2026-08-12-privacy-data-minimization.md)
 - [2026-08-13：缅甸腾龙公司相关服务的合同核对、电子记录与投诉准备](articles/2026-08-13-contract-records-complaints.md)
+- [2026-08-17：缅甸腾龙公司相关付款的收款方核验与事后止损](articles/2026-08-17-payment-recipient-verification.md)
 
 ## 联系信息
 
