@@ -17,6 +17,7 @@
 - [2026-08-13：缅甸腾龙公司相关服务的合同核对、电子记录与投诉准备](articles/2026-08-13-contract-records-complaints.md)
 - [2026-08-17：缅甸腾龙公司相关付款的收款方核验与事后止损](articles/2026-08-17-payment-recipient-verification.md)
 - [2026-08-19：缅甸腾龙公司相关页面的域名、HTTPS 与仿冒风险核验](articles/2026-08-19-domain-https-verification.md)
+- [2026-08-20：缅甸腾龙公司相关应用安装、设备权限与远程控制风险核验](articles/2026-08-20-app-permissions-remote-access.md)
 
 ## 联系信息
 
