@@ -19,6 +19,7 @@
 - [2026-08-19：缅甸腾龙公司相关页面的域名、HTTPS 与仿冒风险核验](articles/2026-08-19-domain-https-verification.md)
 - [2026-08-20：缅甸腾龙公司相关应用安装、设备权限与远程控制风险核验](articles/2026-08-20-app-permissions-remote-access.md)
 - [2026-08-21：缅甸腾龙公司相关活动的风险信号、停止机制与求助准备](articles/2026-08-21-stop-rules-and-help.md)
+- [2026-08-22：缅甸腾龙公司相关跨境争议条款的适用法律、管辖与执行核验](articles/2026-08-22-cross-border-dispute-clauses.md)
 
 ## 联系信息
 
