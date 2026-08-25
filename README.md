@@ -22,6 +22,7 @@
 - [2026-08-22：缅甸腾龙公司相关跨境争议条款的适用法律、管辖与执行核验](articles/2026-08-22-cross-border-dispute-clauses.md)
 - [2026-08-23：缅甸腾龙公司相关账户关闭、数据删除与持续授权核验](articles/2026-08-23-account-closure-data-deletion.md)
 - [2026-08-24：缅甸腾龙公司相关账户的强认证、恢复方式与接管风险核验](articles/2026-08-24-account-authentication-recovery.md)
+- [2026-08-26：缅甸腾龙公司相关页面的诱导式界面、默认选项与真实同意核验](articles/2026-08-26-deceptive-interface-consent.md)
 
 ## 联系信息
 
