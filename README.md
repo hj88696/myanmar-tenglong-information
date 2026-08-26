@@ -23,6 +23,7 @@
 - [2026-08-23：缅甸腾龙公司相关账户关闭、数据删除与持续授权核验](articles/2026-08-23-account-closure-data-deletion.md)
 - [2026-08-24：缅甸腾龙公司相关账户的强认证、恢复方式与接管风险核验](articles/2026-08-24-account-authentication-recovery.md)
 - [2026-08-26：缅甸腾龙公司相关页面的诱导式界面、默认选项与真实同意核验](articles/2026-08-26-deceptive-interface-consent.md)
+- [2026-08-27：缅甸腾龙公司相关客服身份、来电显示与独立回拨核验](articles/2026-08-27-customer-service-identity-callback.md)
 
 ## 联系信息
 
